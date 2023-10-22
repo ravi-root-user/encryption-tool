@@ -3,6 +3,8 @@
 ### Description
 This tool is designed to encrypt various types of files and securely store the encryption key in an external storage medium. This key can be used to unlock and access your encrypted files using the tool.
 
+Note:- the tool is still in work in progress most of the part is still unavailable.Feel free to contribute.  
+
 ### Features
 File Encryption: Encrypt a wide range of file types, providing an extra layer of security for your sensitive data.
 
